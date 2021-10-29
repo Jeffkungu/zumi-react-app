@@ -9,14 +9,14 @@ Clone the repo:
 git clone https://github.com/Jeffkungu/zumi-react-app.git
 ```
 ### Prerequisites
-Before running the app make sure you have installed bellow apps and packages
+Before running the app make sure you have installed below apps and packages
 
 * npm
 * zumi-nodejs-app (https://github.com/Jeffkungu/zumi-nodejs-app.git)
 
 ### Running The App
 
-Make sure you have the zumi-nodejs-app installed and running then excute the command bellow since the repo comes with all packages needed:
+Make sure you have the zumi-nodejs-app installed and running then excute the command below since the repo comes with all packages needed:
 
 ```bash
 npm start
