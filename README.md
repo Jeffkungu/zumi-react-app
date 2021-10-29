@@ -21,5 +21,6 @@ Make sure you have the zumi-nodejs-app installed and running then excute the com
 ```bash
 npm start
 ```
-### NB:
-Make sure to run the crud operations on postman for you to see the changes on the app's Orders and Products pages
+## NB:
+
+Make sure to run the CRUD operations on Order & Product records, from postman client app, for you to see the changes on the Orders and Products pages in the app.
